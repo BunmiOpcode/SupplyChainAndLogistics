@@ -1,0 +1,7 @@
+supplier_id,supplier_name,contact_name,country,lead_time_days
+1,Supplier_1,Maria Gonzalez,Spain,3
+2,Supplier_2,Chen Wei,China,6
+3,Supplier_3,Ahmed Khan,Parkistan,20
+4,Supplier_4,Sophie Martin,France,11
+5,Supplier_5,James Anderson,United States,13
+6,Supplier_6,Olivia Brown,Australia,6

@@ -1,0 +1,31 @@
+product_id,supplier_id,product_name,category,unit_price,reorder_level
+1,1,Product_1,Electronics,372.07,25
+2,2,Product_2,Clothing,369.55,44
+3,5,Product_3,Electronics,213.85,11
+4,2,Product_4,Electronics,120.17,48
+5,5,Product_5,Electronics,103.42,44
+6,2,Product_6,Sports,227.36,27
+7,2,Product_7,Electronics,350.58,31
+8,2,Product_8,Home Appliances,111.58,31
+9,1,Product_9,Electronics,193.06,32
+10,5,Product_10,Home Appliances,135.94,12
+11,5,Product_11,Sports,66.79,34
+12,5,Product_12,Electronics,150.12,50
+13,3,Product_13,Books,290.79,14
+14,6,Product_14,Electronics,117.81,28
+15,2,Product_15,Electronics,433.91,34
+16,4,Product_16,Home Appliances,319.66,33
+17,3,Product_17,Clothing,180.86,27
+18,5,Product_18,Electronics,319.31,44
+19,2,Product_19,Clothing,233.82,27
+20,2,Product_20,Books,343.88,13
+21,1,Product_21,Clothing,403.5,35
+22,1,Product_22,Home Appliances,109.44,46
+23,2,Product_23,Home Appliances,329.44,35
+24,2,Product_24,Sports,136.12,25
+25,5,Product_25,Books,135.06,47
+26,5,Product_26,Sports,202.7,24
+27,5,Product_27,Clothing,249.29,13
+28,2,Product_28,Electronics,315.59,37
+29,1,Product_29,Books,195.46,48
+30,5,Product_30,Sports,129.45,45
