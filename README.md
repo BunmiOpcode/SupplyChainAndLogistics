@@ -1,23 +1,22 @@
-**Supply Chain & Inventory Optimization Analysis (SQL Project)**
-
-**Project Overview**
+# Supply Chain & Inventory Optimization Analysis (SQL Project)
+### Project Overview
 
 This project analyzes inventory management, supplier performance, and delivery efficiency for a retail/supply chain business using MySQL.
 The goal was to uncover insights that help reduce stockouts, improve on-time deliveries, and optimize overall supply chain operations.
 
-**Business Problem**
+### Business Problem
 
 Supply chain inefficiencies often lead to:
 
-Frequent stockouts → Lost sales & dissatisfied customers.
+**Frequent stockouts →** Lost sales & dissatisfied customers.
 
-Late deliveries → Increased lead times & poor customer satisfaction.
+**Late deliveries →** Increased lead times & poor customer satisfaction.
 
-Poor supplier performance tracking → Lack of accountability.
+**Poor supplier performance tracking →** Lack of accountability.
 
-Underutilized data → Decisions based on guesswork, not facts.
+**Underutilized data →** Decisions based on guesswork, not facts.
 
-The objective was to use SQL for data analysis to answer key questions:
+### The objective was to use SQL for data analysis to answer key questions:
 
 Which products are running out of stock most often?
 
@@ -29,41 +28,42 @@ What is the average lead time across deliveries?
 
 Which customers or regions drive the most sales?
 
-**Dataset**
+### Dataset
 
-The dataset (simulated business data) included:
+The simulated business data included:
 
-Products → Product details, categories, unit costs, selling price.
+- **Products →** Product details, categories, unit costs, selling price.
 
-Inventory → Current stock levels, reorder points.
+- **Inventory →** Current stock levels, reorder points.
 
-Suppliers → Supplier details, delivery performance.
+- **Suppliers →** Supplier details, delivery performance.
 
-Orders → Customer orders, order dates, fulfillment status.
+- **Orders →** Customer orders, order dates, fulfillment status.
 
-Shipments → Delivery dates, delays, and carrier details.
+- **Shipments →** Delivery dates, delays, and carrier details.
 
-**Key Findings**
+### Tool
+- Excel: Data Cleaning
+- MYSQL: Data Analysis
 
-Stockouts: 15% of items often fall below reorder level.
+### Key Findings
 
-Suppliers: Supplier 1 is responsible for 30% of late deliveries.
+- **Stockouts:** 15% of items often fall below reorder level.
 
-Deliveries: Average lead time = 6 days; needs improvement to ≤ 3 days.
+- **Suppliers:** Supplier 1 is responsible for 30% of late deliveries.
 
-Revenue: Top 10 customers drive 42% of total sales.
+- **Deliveries:** Average lead time = 6 days; needs improvement to ≤ 3 days.
 
-**Recommendations**
+- **Revenue:** Top 10 customers drive 42% of total sales.
 
-Implement automated reorder triggers for products at risk of stockout.
+### Recommendations
 
-Negotiate stricter SLAs with underperforming suppliers.
+1. Implement automated reorder triggers for products at risk of stockout.
+2. Negotiate stricter SLAs with underperforming suppliers.
+3. Invest in faster logistics partners to cut delivery lead time.
+4. Develop loyalty programs to retain top customers.
 
-Invest in faster logistics partners to cut delivery lead time.
-
-Develop loyalty programs to retain top customers.
-
-**Conclusion**
+### Conclusion
 
 This project demonstrates how SQL can power supply chain decisions by identifying stockouts, quantifying lost revenue, evaluating supplier reliability, and improving delivery efficiency.
 
